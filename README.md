@@ -9,7 +9,7 @@ beneficiando as turmas com a facilidade e clareza de manuseio
 ## Autores
 
 - [@LucasCid](https://www.github.com/luscacid)
-- [@IgorGabriel](https://www.github.com/cato21)
+- [@IgorGabriel](https://www.github.com/acato21)
 
 
 ## Variáveis de Ambiente
