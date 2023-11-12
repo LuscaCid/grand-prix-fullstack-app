@@ -1,5 +1,21 @@
 # grand-prix-fullstack-app
 
-to run this project open the terminal in the two archives and run "npm install" and "npm run dev"
+# Projeto de braço direito SENAI
 
-projeto para auxiliar professores e alunos
+um projeto para auxiliar professores e alunos com relação aos conteúdos passados
+beneficiando as turmas com a facilidade e clareza de manuseio
+
+
+## Autores
+
+- [@LucasCid](https://www.github.com/luscacid)
+- [@IgorGabriel](https://www.github.com/cato21)
+
+
+## Variáveis de Ambiente
+
+Para rodar esse projeto, você vai precisar rodar estas funcoes nos dois arquivos, tanto no frontend quanto no backend
+
+`nmp install`
+`nmp run dev`
+
